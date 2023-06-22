@@ -33,9 +33,9 @@ Here are some of the key skills and technologies I possess:
 Connect with me on social media to stay updated with my latest projects and thoughts on front-end development:
 
 <!-- - [CodePen](https://codepen.io/miguellomba): Follow me on CodePen to learn more about my work, view my portfolio, and get in touch. -->
-- [YouTube](https://www.youtube.com/@miguel_lomba): Check out my YouTube Channel to see some of my code tutorials.
+- [YouTube](https://www.youtube.com/@miguel_lomba): 🎥 Check out my YouTube Channel to see some of my code tutorials.
   
-- [LinkedIn](https://www.linkedin.com/in/miguellomba): Connect with me on LinkedIn to explore professional opportunities and engage in discussions within the front-end development community.
+- [LinkedIn](https://www.linkedin.com/in/miguellomba): 💼 Connect with me on LinkedIn to explore professional opportunities and engage in discussions within the front-end development community.
 
 <!-- - [Personal Website](https://www.your-website.com): Visit my personal website to learn more about my work, view my portfolio, and get in touch. -->
 
