@@ -12,7 +12,7 @@ Here are some of the notable projects I have worked on:
 
 3. **Project 3**: Description of the project, including its purpose, technologies used, and any notable achievements or challenges faced. -->
 
-For a complete list of my projects, please visit my [GitHub repositories](https://github.com/miguellomba).
+For a complete list of my projects, please visit my [GitHub repositories](https://github.com/?tab=repositories).
 
 ## Skills
 
