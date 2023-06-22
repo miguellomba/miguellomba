@@ -1,4 +1,4 @@
-# Miguel Lomba
+# Hi, I'm Miguel 👋🏻
 
 Welcome to my GitHub profile! I am a passionate front-end developer with a love for creating beautiful and intuitive user interfaces. This README file provides an overview of my projects, skills, and social media accounts.
 
