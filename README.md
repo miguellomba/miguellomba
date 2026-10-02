@@ -45,9 +45,11 @@ At **Diana C. Lobosco STEM Academy** (Wayne, NJ, USA), I designed the curriculum
 
 ---
 
-## 🔧 Currently building
+## 📚 Training samples
 
-A portfolio of open, hands-on training samples for web development and CMS fundamentals, including lesson plans, labs and documentation. Coming soon to this profile.
+- **[Handlebars Partials: build once, reuse everywhere](https://miguellomba.github.io/handlebars-partials-workshop.html)**: a 60-minute hands-on workshop with objectives, a timed agenda, facilitator notes, two labs with solutions, and a knowledge check.
+
+More samples for web development and CMS fundamentals are on the way. See them all on my [portfolio site](https://miguellomba.github.io).
 
 ---
 
