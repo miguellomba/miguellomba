@@ -13,7 +13,7 @@ I currently work as a Technical Trainer at **Terminalfour**, delivering training
 
 - **Technical training & enablement:** instructor-led and virtual training, curriculum and course design, hands-on labs, customer onboarding
 - **Web development & CMS:** HTML, CSS, JavaScript, Handlebars templating, WordPress, CMS administration and publishing workflows
-- **Programming & data:** SQL, Python, REST APIs, JSON, Git
+- **Programming & data:** SQL, REST APIs, JSON, Git
 - **Technical documentation:** user guides, knowledge base articles and training materials
 
 ---
