@@ -55,4 +55,4 @@ A portfolio of open, hands-on training samples for web development and CMS funda
 
 - 💼 LinkedIn: [linkedin.com/in/miguellomba](https://www.linkedin.com/in/miguellomba)
 - ✉️ Email: [mlombasanchez@gmail.com](mailto:mlombasanchez@gmail.com)
-<!-- ADD WHEN LIVE: - 🌐 Portfolio: [miguellomba.github.io](https://miguellomba.github.io) -->
+- 🌐 Portfolio: [miguellomba.github.io](https://miguellomba.github.io)
